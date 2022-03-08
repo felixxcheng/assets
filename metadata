@@ -3,7 +3,7 @@
   "symbol": "SYM",
   "description": "THIS SYMBOL IS EVOLVING",
   "seller_fee_basis_points": 2000,
-  "image": "https://bafkreiadjik3vbqzfn27fuil3us2op6csmqm2bp6fdxk7cevhbvqcja7de.ipfs.dweb.link?ext=png",
+  "image": "https://github.com/felixxcheng/assets/blob/75fddb2d8628e47749317d27a9a10e0c6f128b22/update.png",
   "external_url": "",
   "edition": 0,
   "attributes": [
@@ -22,7 +22,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "BgfMkBCbMqYHM9gAhzrTGQSAhhzBHV9icXn4zKgYbJE",
+        "address": "DK4oSneetEucg4fxgCBCSg4nhZx5DHGK8C3u4MCtPDoz",
         "share": 100
       }
     ]
